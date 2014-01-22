@@ -1,6 +1,6 @@
-"Interview" the two possible witnesses by reading the correct line from the streets they live on:
+"Entrevista" a los dos posibles testigos leyendo la linea correcta de las calles en las que viven:
 
 	head -n 173 streets/Mattapan_Street | tail -n 1
 
-This will give you just line 173 of Mattapan street, because it will take first 173 lines, and then take
-the last line from those.
+Esto nos mostrará únicamente la linea 173 de Mattapan street, porque head nos mostrará las 173 primeras lineas,
+y luego tail la última de las mismas.

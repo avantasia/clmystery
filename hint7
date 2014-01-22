@@ -1,6 +1,7 @@
-In order to actually get information about vehicles that might match our description,
-we need to get multiple lines AROUND each match.  We can use the -A, -B, or -C option with grep:
+Para obtener información acerca de vehículos que coincidan con la descripción, 
+necesitamos obtener lineas ALREDEDOR de los resultados. Podemos usar las opciones -A, -B, o -C con grep:
 
 	grep -A 5 "L337" mystery/vehicles
 
-This will match the license plates that contain "L337" and, for each match, show us the five lines AFTER it.
+Esto dará coincidencias con la matrícula que contiene "L337" y, para cada resultado, nos mostrará las cinco
+lineas DESPUES del resultado.

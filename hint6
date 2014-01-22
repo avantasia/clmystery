@@ -1,4 +1,4 @@
-To find a matching license plate, or a matching car, you can use grep on the 'vehicles' file:
+Para encontrar una matrícula o un coche que coincidan, puedes usar grep en el fichero 'vehicles':
 
 	grep "Honda" vehicles
 
@@ -6,4 +6,6 @@ To find a matching license plate, or a matching car, you can use grep on the 've
 
 	grep "L337" vehicles
 
-This doesn't give us anything useful - why not? Try using 'head' on the file to investigate its structure.
+Esto no nos muestra ninguna información útil - ¿por qué no? Prueba a usar 'head' en el fichero para investigar
+acerca de su estructura.
+

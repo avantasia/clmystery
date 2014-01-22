@@ -1,5 +1,5 @@
-Try poking around what's in a file by using the 'head' command:
+Prueba a ver lo que hay en un fichero usando el comando 'head':
 
   head -n 20 people
 
-This will show you the first 20 lines of the 'people' file.
+Esto te mostrará las primeras 20 lineas del fichero 'people'.

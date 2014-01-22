@@ -1,3 +1,3 @@
-Try using grep to search for the clues in the crimescene file:
+Prueba a usar grep para buscar pistas en el fichero de la escena del crimen
 
-	grep "CLUE" crimescene
+	grep "PISTA" crimescene

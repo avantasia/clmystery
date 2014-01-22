@@ -1,4 +1,4 @@
-The Command Line Murders
+Los Asesinatos de la Linea de Comandos
 ========================
 
 	.OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
@@ -9,10 +9,10 @@ The Command Line Murders
 	OOOOOOOOOoooooo,                                            |OOoooooOOOOOS
 	OOOOOOOOOOOOOOOOo,                                          |OOOOOOOOOOOOC
 	OOOOOOOOOOOOOOOOOO                                         ,|OOOOOOOOOOOOI
-	OOOOOOOOOOOOOOOOOO @          THE                          |OOOOOOOOOOOOOI
-	OOOOOOOOOOOOOOOOO'@           COMMAND                      OOOOOOOOOOOOOOb
-	OOOOOOOOOOOOOOO'a'            LINE                         |OOOOOOOOOOOOOy
-	OOOOOOOOOOOOOO''              MURDERS                      aa`OOOOOOOOOOOP
+	OOOOOOOOOOOOOOOOOO @          LOS ASESINATOS               |OOOOOOOOOOOOOI
+	OOOOOOOOOOOOOOOOO'@           DE LA LINEA                  OOOOOOOOOOOOOOb
+	OOOOOOOOOOOOOOO'a'            DE                           |OOOOOOOOOOOOOy
+	OOOOOOOOOOOOOO''              COMANDOS                     aa`OOOOOOOOOOOP
 	OOOOOOOOOOOOOOb,..                                          `@aa``OOOOOOOh
 	OOOOOOOOOOOOOOOOOOo                                           `@@@aa OOOOo
 	OOOOOOOOOOOOOOOOOOO|                                             @@@ OOOOe
@@ -25,18 +25,25 @@ The Command Line Murders
 	`OOOO'       `@    aa@@       aaa"""          @a        a@     a@@@',OOOO'
 
 
-There's been a murder in Terminal City, and TCPD needs your help.
+Han cometido un asesinato en la Ciudad de la Linea de Comandos, y TCPD necesita tu ayuda
 
-To figure out whodunit, you need access to a command line.
+Para saber quein lo ha hecho, necesitas acceso a una linea de comandos.
 
-Once you're ready, clone this repo, or [download it as a zip file](https://github.com/veltman/clmystery/archive/master.zip).
+Una vez estés preparado, clona este repo, o [descargalo como un zip](https://github.com/avantasia/clmystery/archive/master.zip).
 
-Open a Terminal, go to the location of the files, and start by reading the file 'instructions'.
+Abre una Terminal, ve a la localizacion de los archivos, y empieza leyendo el fichero 'instrucciones'
 
-One way you can do this is with the command:
+Una manera que tienes para hacer esto es con el comando:
 
-	cat instructions
+	cat instrucciones
 
-To get started on how to use the command line, open cheatsheet.md or cheatsheet.pdf (from the command line, you can type 'nano cheatsheet.md').
+Para empezar a aprender a usar la linea de comandos, abre cheatsheet.md o cheatsheet.pdf (desde la linea de comandos, puedes escribir 'nano cheatsheet.md').
 
-Don't use a text editor to view any files except these instructions, the cheatsheet, and hints.
+No uses un editor de texto para ver ningun fichero excepto estas instrucciones, la cheatsheet y las pistas.
+
+---
+Esto es una traducción de https://github.com/veltman/clmystery
+
+Se pierden algunos detalles con la traducción, además de que los comandos son inevitablemente en inglés, ¡sorry! , ¡hay que learn english y menos café con leche in the plaza mayor!;)
+
+

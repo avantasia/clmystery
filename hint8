@@ -1,11 +1,12 @@
-To see who was a member of several different groups, you can combine their membership lists into one and search against that.
+Para ver quien es miembro de varios grupos distintos, puedes combinar sus listados de pertenencia a grupos 
+en un solo listado y buscar en la combinacion.
 
 	cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith"
 
-If you only want to see the number of matches, you can use grep's -c option (the c must be lowercase):
+Si solo quieres ver el número de coincidencias, puedes usar la opción -c de grep (la c en minúscula):
 
 	cat Fitness_Galaxy AAA United_MileagePlus | grep -c "John Smith"
 
-Or you can pipe the result to 'wc -l':
+O puedes enviar el resultado a 'wc -l':
 
 	cat Fitness_Galaxy AAA United_MileagePlus | grep "John Smith" | wc -l
