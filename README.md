@@ -27,7 +27,7 @@ Los Asesinatos de la Linea de Comandos
 
 Han cometido un asesinato en la Ciudad de la Linea de Comandos, y TCPD necesita tu ayuda
 
-Para saber quein lo ha hecho, necesitas acceso a una linea de comandos.
+Para saber quien lo ha hecho, necesitas acceso a una linea de comandos.
 
 Una vez estés preparado, clona este repo, o [descargalo como un zip](https://github.com/avantasia/clmystery/archive/master.zip).
 
